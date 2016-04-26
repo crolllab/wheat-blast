@@ -60,7 +60,7 @@ Figure - wheat and rice blast: We constructed a maximum likelihood phylogeny of 
 Figure - Brazilian and Bangladesh wheat blast: We assessed phylogenetic relationships among Brazilian (n=32) and Bangladesh (n=4) blast strains using a Neighbor-Net. The dataset contained only SNPs reliably called in the transcriptomic sequences of the Bangladesh sample 12 and genotyped in at least 90% of all other strains. We retained 7411 informative SNPs. We performed the analysis using splitsTree version 4.14.2. Phylogenetic distances are uncorrected p distances.
 
 
-What are the genome sequence of the most closely related Brazilian wheat blast strains?
+What are the genome sequences of the most closely related Brazilian wheat blast strains?
 ------------------------------------
 One of the most closely related genomes is [available](http://s620715531.websitehome.co.uk/owb/?page_id=278) from Nick Talbot and Darren Soanes (Exeter University). This is strain PY0925 isolated in Perdizes (MG, Brazil) in 2009.
 
