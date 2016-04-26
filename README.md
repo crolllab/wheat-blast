@@ -35,7 +35,7 @@ The key piece of information was gathered by the teams of Sophien Kamoun at [The
 
 Then, we added rice and wheat blast data from multiple sources including publicly available genomes on [NCBI](http://www.ncbi.nlm.nih.gov/genome/?term=magnaporthe+oryzae) and genomes [available](http://s620715531.websitehome.co.uk/owb/?page_id=278)) from Nick Talbot and Darren Soanes (Exeter University).
 
-We also generated our own genome sequence data. Paulo Ceresini (University of São Paulo State - UNESP), Bruce McDonald and Daniel Croll (both ETH Zurich) collected wheat blast strains across Brazil and generated genome  sequencing data. We will make the data available here soon (stay tuned).
+We also generated our own genome sequence data. Paulo Ceresini (University of São Paulo State - UNESP), Bruce McDonald and Daniel Croll (both ETH Zurich) collected wheat blast strains across Brazil and generated genome sequencing data. We made the genome sequence of a Brazilian wheat blast strain available. Download the [genome](https://www.dropbox.com/s/oh8942swth5f7pe/WheatBlast_205_Brazil.fa?dl=0), [gene models](https://www.dropbox.com/s/7exq3kj2k0zhb7u/WheatBlast_205_Brazil.gff?dl=0) and [protein sequences](https://www.dropbox.com/s/057hth1sdxzldij/WheatBlast_205_Brazil.proteins.fa?dl=0).
 
 What did we find out?
 ------------------------------------------
