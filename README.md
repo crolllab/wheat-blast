@@ -1,4 +1,3 @@
-<<<<<<< Local Changes
 The origin of wheat blast in Bangladesh
 ================================
 
@@ -220,5 +219,3 @@ We built a phylogenetic tree from a SNP supermatrix using [RAxML version 8.2.8](
 
 We also constructed a NeighborNet among all wheat blast strains using [splitsTree version 4.14.2](http://www.splitstree.org). For detailed parameters see above.
 
-=======
->>>>>>> External Changes
