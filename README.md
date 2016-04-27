@@ -1,3 +1,4 @@
+<<<<<<< Local Changes
 The origin of wheat blast in Bangladesh
 ================================
 
@@ -35,7 +36,8 @@ The key piece of information was gathered by the teams of Sophien Kamoun at [The
 
 Then, we added rice and wheat blast data from multiple sources including publicly available genomes on [NCBI](http://www.ncbi.nlm.nih.gov/genome/?term=magnaporthe+oryzae) and genomes [available](http://s620715531.websitehome.co.uk/owb/?page_id=278) from Nick Talbot and Darren Soanes (Exeter University).
 
-We also generated our own genome sequence data. Paulo Ceresini (University of São Paulo State - UNESP), Bruce McDonald and Daniel Croll (both ETH Zurich) collected wheat blast strains across Brazil and generated genome sequencing data. We made the genome sequence of a Brazilian wheat blast strain available. Download the [genome](https://www.dropbox.com/s/oh8942swth5f7pe/WheatBlast_205_Brazil.fa?dl=0), [gene models](https://www.dropbox.com/s/7exq3kj2k0zhb7u/WheatBlast_205_Brazil.gff?dl=0) and [protein sequences](https://www.dropbox.com/s/057hth1sdxzldij/WheatBlast_205_Brazil.proteins.fa?dl=0).
+We also generated our own genome sequence data. Paulo Ceresini’s group including Vanina Castroagudin (UNESP, Brazil) and João Nunes Maciel (EMBRAPA Wheat, Brazil) collected wheat blast strains across Brazil. Bruce McDonald and Daniel Croll (both ETH Zurich) generated genome sequencing data. We made the genome sequence of a Brazilian wheat blast strain available. Download the [genome](https://www.dropbox.com/s/oh8942swth5f7pe/WheatBlast_205_Brazil.fa?dl=0), [gene models](https://www.dropbox.com/s/7exq3kj2k0zhb7u/WheatBlast_205_Brazil.gff?dl=0) and [protein sequences](https://www.dropbox.com/s/057hth1sdxzldij/WheatBlast_205_Brazil.proteins.fa?dl=0).
+
 
 What did we find out?
 ------------------------------------------
@@ -44,7 +46,7 @@ What did we find out?
 
 2. The wheat blast strains in Bangladesh are genetically very similar to wheat blast strains previously identified in Brazil. The genetically most similar strains were collected in Brazilian wheat fields and on associated weeds Eleusine indica (goose grass) and Cenchrus echinatus collected in Brazil.
 
-3. One of the genetically closest strains known from Brazil is PY0925. The genome sequence and annotation can be downloaded [here](http://s620715531.websitehome.co.uk/owb/?page_id=278). We made  the genome sequence of an additional Brazilian wheat blast strain available. This is strain 205 isolated in São Borja (RS, Brazil) and is slightly more distant to the Bangladesh blast strains. Download the [genome](https://www.dropbox.com/s/oh8942swth5f7pe/WheatBlast_205_Brazil.fa?dl=0), [gene models](https://www.dropbox.com/s/7exq3kj2k0zhb7u/WheatBlast_205_Brazil.gff?dl=0) and [protein sequences](https://www.dropbox.com/s/057hth1sdxzldij/WheatBlast_205_Brazil.proteins.fa?dl=0).
+3. One of the genetically closest strains known from Brazil is PY0925. The genome sequence and annotation can be downloaded [here](http://s620715531.websitehome.co.uk/owb/?page_id=278). We made the genome sequence of an additional Brazilian wheat blast strain available. This is strain 205 isolated in São Borja (RS, Brazil) and is slightly more distant to the Bangladesh blast strains. Download the [genome](https://www.dropbox.com/s/oh8942swth5f7pe/WheatBlast_205_Brazil.fa?dl=0), [gene models](https://www.dropbox.com/s/7exq3kj2k0zhb7u/WheatBlast_205_Brazil.gff?dl=0) and [protein sequences](https://www.dropbox.com/s/057hth1sdxzldij/WheatBlast_205_Brazil.proteins.fa?dl=0).
 
 4. The high similarity among the wheat blast strains from Bangladesh and Brazil suggests that wheat blast was introduced into Bangladesh from Brazil. Many fungal diseases can be transmitted via grains and previous research indicated that wheat blast can be seed-transmitted. A transmission of the disease from Brazil is plausible because Bangladesh is one of the largest Asian importers of wheat and Brazil is one of the [major suppliers of wheat to Bangladesh]( https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.serragraos.com.br%2F20072015-brasil-exporta-mais-trigo-para-depois-ter-que-importar&edit-text=&act=url).
 
@@ -123,7 +125,7 @@ To prepare the aligned reads from tophat for variant calling.
 ```shell
 java -Xmx8g -jar GenomeAnalysisTK.jar \
 	-T SplitNCigarReads \
-   -R $REF.fa -I RawData/$seqid/accepted_hits.bam -o RawData/$seqid/accepted_hits.cigarN.bam \
+   -R reference-genome.fa -I RawData/$seqid/accepted_hits.bam -o RawData/$seqid/accepted_hits.cigarN.bam \
    -rf ReassignOneMappingQuality -RMQF 255 -RMQT 60 \
    -U ALLOW_N_CIGAR_READS
 ```
@@ -218,3 +220,5 @@ We built a phylogenetic tree from a SNP supermatrix using [RAxML version 8.2.8](
 
 We also constructed a NeighborNet among all wheat blast strains using [splitsTree version 4.14.2](http://www.splitstree.org). For detailed parameters see above.
 
+=======
+>>>>>>> External Changes
