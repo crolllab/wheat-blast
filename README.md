@@ -1,3 +1,6 @@
+Update 28 April 2016: [Nature News](http://www.nature.com/news/devastating-wheat-fungus-appears-in-asia-for-first-time-1.19820) article about the wheat blast outbreak.
+
+
 The origin of wheat blast in Bangladesh
 ================================
 
