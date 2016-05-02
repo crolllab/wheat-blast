@@ -1,3 +1,5 @@
+Update 2 May 2016: The arguments for ([biorxiv](http://biorxiv.org/content/early/2016/04/30/051151), [blog post](https://bruceamcdonald.wordpress.com/2016/05/01/background-information-related-to-the-wheat-blast-outbreak-in-bangladesh)) and against ([comment](http://biorxiv.org/content/early/2016/04/30/051151#comment-2652490948)) renaming the rice/wheat blast pathogens.
+
 Update 29 April 2016: The Open Wheat Blast website shared a [timeline](http://s620715531.websitehome.co.uk/owb/?p=485) of the recent developments.
 
 Update 28 April 2016: [Nature News](http://www.nature.com/news/devastating-wheat-fungus-appears-in-asia-for-first-time-1.19820) article about the wheat blast outbreak.
