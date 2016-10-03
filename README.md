@@ -1,3 +1,5 @@
+Update 3 October 2016: Our publication reporting the origin of the Bangladesh wheat blast outbreak is now freely available on the website of [BMC Biology](http://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0309-7)
+
 Update 20 June 2016: We have made a [biorxiv](http://biorxiv.org/content/early/2016/06/19/059832) preprint available of our collaborative analyses of Bangladesh wheat blast.
 
 Update 2 May 2016: The arguments for ([biorxiv](http://biorxiv.org/content/early/2016/04/30/051151), [blog post](https://bruceamcdonald.wordpress.com/2016/05/01/background-information-related-to-the-wheat-blast-outbreak-in-bangladesh)) and against ([comment](http://biorxiv.org/content/early/2016/04/30/051151#comment-2652490948)) renaming the rice/wheat blast pathogens.
