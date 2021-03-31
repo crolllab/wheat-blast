@@ -1,3 +1,5 @@
+Update 31 March 2021: I have updated the analyses below to include the very recently released whole-genome sequencing datasets from the Zambian wheat blast outbreak!
+
 Update 3 October 2016: Our publication reporting the origin of the Bangladesh wheat blast outbreak is now freely available on the website of [BMC Biology](http://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0309-7)
 
 Update 20 June 2016: We have made a [biorxiv](http://biorxiv.org/content/early/2016/06/19/059832) preprint available of our collaborative analyses of Bangladesh wheat blast.
@@ -7,6 +9,48 @@ Update 2 May 2016: The arguments for ([biorxiv](http://biorxiv.org/content/early
 Update 29 April 2016: The Open Wheat Blast website shared a [timeline](http://s620715531.websitehome.co.uk/owb/?p=485) of the recent developments.
 
 Update 28 April 2016: [Nature News](http://www.nature.com/news/devastating-wheat-fungus-appears-in-asia-for-first-time-1.19820) article about the wheat blast outbreak.
+
+
+The Zambian wheat blast origin (2021 project)
+================================ 
+
+What is wheat blast? Is it dangerous?
+------------------------------------
+Please [see below](https://github.com/crolllab/wheat-blast#the-origin-of-wheat-blast-in-bangladesh) for further insights and links.
+
+
+What happened in Zambia? What has been done so far?
+------------------------------------
+Recent morphological and molecular analyses using a SNP genotyping assay have confirmed that at least since 2018, Zambia was affected by outbreaks of wheat blast.
+
+Tembo et al. (2020, [PLOS One](https://doi.org/10.1371/journal.pone.0238724)) first described symptoms observed in Zambian wheat fields and used a diagnostic PCR assay.
+
+Later, Tembo et al. (2021, [Zenodo DOI](https://doi.org/10.5281/zenodo.4605959)) showed that a set of 84 single nucleotide polymorphism (SNP) markers is highly effective in assigning unknown genotypes to diverse Magnaporthe oryzae lineages.
+
+In a follow-up, Win et al. (2021, [Zenodo DOI](https://doi.org/10.5281/zenodo.4618522)) and Latorre and Burbano (2021, [Zenodo DOI](https://doi.org/10.5281/zenodo.4619405)) independently confirmed that the pathogen strains collected on Zambian wheat between 2018 and 2020 were indistinguishable from wheat blast strains detected in Bangladesh 2016 (see also [Islam et al. 2016](https://doi.org/10.1186/s12915-016-0309-7)). 
+
+On the 25 March 2021, Tembo et al. released 13 whole-genome sequencing datasets of Zambian strains collected 2018-2020 ([Zenodo DOI](https://doi.org/10.5281/zenodo.4637175))
+
+
+How did I analyze the whole-genome datasets?
+------------------------------------
+Please [see below](https://github.com/crolllab/wheat-blast#the-origin-of-wheat-blast-in-bangladesh) for details on the procedure.
+
+
+What other genomes did I analyze?
+------------------------------------
+
+The genetic diversity of Magnaporthe oryzae across the different host-associated lineages has been extremely well studied. To ascertain the position of the Zambian genomes, I included the totality of the publicly available (NCBI SRA) and well identifiable isolates. 
+
+The total of included Magnaporthe genomes is 273 in addition 13 from new genomes from Zambia.
+
+
+What did I find analyzing the Zambian wheat blast genomes?
+------------------------------------
+
+Please check out my Zenodo dataset and description: PENDING UPDATE.
+
+
 
 
 The origin of wheat blast in Bangladesh
@@ -33,6 +77,8 @@ Wheat blast and rice blast are closely related pathogen lineages and currently i
 Who are we?
 ------------------------------------
 We are plant pathologists at the ETH Zurich (Switzerland) using genomics tools to identify how plant pathogens cause disease. You can read more about Daniel Croll's research [here](http://www.pathogen-genomics.org) and Bruce McDonald's research [here](http://www.path.ethz.ch/the-group.html).
+
+UPDATE: The laboratory of Daniel Croll is now at the University of Neuchatel ([website](https://pathogen-genomics.org))
 
 
 How do we find out where wheat blast came from?
