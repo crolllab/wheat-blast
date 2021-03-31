@@ -48,8 +48,9 @@ The total of included Magnaporthe genomes is 273 in addition 13 from new genomes
 What did I find analyzing the Zambian wheat blast genomes?
 ------------------------------------
 
-Please check out my Zenodo dataset and description: PENDING UPDATE.
+Please check out my [Zenodo dataset and description](https://doi.org/10.5281/zenodo.4650215).
 
+Croll D. Whole-genome analyses of 286 Magnaporthe oryzae genomes suggest that an independent introduction of a global pandemic lineage is at the origin of the Zambia wheat blast outbreak [dataset]. Zenodo https://doi.org/10.5281/zenodo.4650215
 
 
 
