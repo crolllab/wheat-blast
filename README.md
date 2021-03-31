@@ -1,4 +1,4 @@
-Update 31 March 2021: I have updated the analyses below to include the very recently released whole-genome sequencing datasets from the Zambian wheat blast outbreak!
+Update 31 March 2021: I have updated the analyses below to include the very recently released whole-genome sequencing datasets from the Zambian wheat blast outbreak! Please find the report on [Zenodo](https://doi.org/10.5281/zenodo.4650215) and information below.
 
 Update 3 October 2016: Our publication reporting the origin of the Bangladesh wheat blast outbreak is now freely available on the website of [BMC Biology](http://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0309-7)
 
